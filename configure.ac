@@ -492,6 +492,7 @@ data/vfd140/Makefile
 data/vfd255/Makefile
 include/Makefile
 lib/Makefile
+lib/python/Components/Makefile
 lib/base/eenv.cpp
 lib/python/Makefile
 lib/python/Plugins/Makefile
